@@ -1,0 +1,13 @@
+{
+  "name": "purescript-react-basic-transition-group",
+  "version": "1.0.0",
+  "author": "Viktor Kronvall",
+  "license": "MIT",
+  "devDependencies": {
+    "purescript-language-server": "^0.15.0",
+    "purty": "^7.0.0"
+  },
+  "dependencies": {
+    "react-transition-group": "^4.4.1"
+  }
+}
